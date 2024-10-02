@@ -3,7 +3,13 @@
 - 💙 I love building, coding and solving problems
 - ⚡ Fun fact: I often use a flip phone, even though I am not a pusher
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zi0LEO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Zi0LEO&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 <!---
 Zi0LEO/Zi0LEO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
