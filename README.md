@@ -10,7 +10,7 @@ Currently known tech:
 [![My Skills](https://skillicons.dev/icons?i=linux,neovim,nix,obsidian,js,react,html,css,java,python,git,github)](https://skillicons.dev)
 
 Currently learning:  
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,c,mysql,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,c,mysql,latex,bash)](https://skillicons.dev)
 
 Next in line:  
 [![My Skills](https://skillicons.dev/icons?i=docker,nodejs,aws,spring,raspberrypi)](https://skillicons.dev)
