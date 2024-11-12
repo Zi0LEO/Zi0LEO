@@ -1,5 +1,5 @@
 - 🇮🇹 Located in Italy
-- 🌱 Currently enrolled in software engineering, learning Linux and Vim on the side
+- 🌱 Currently enrolled in software engineering
 - 💙 I love building, coding and solving problems
 - ⚡ Fun fact: I often use a flip phone, even though I am not a pusher
 
