@@ -17,7 +17,7 @@
 
 <p align="center">
   Currently learning:<br/><br/>  
-  <img href="https://skillicons.dev" src="https://skillicons.dev/icons?i=androidstudio,kotlin,c,mysql,latex,bash"/>
+  <img href="https://skillicons.dev" src="https://skillicons.dev/icons?i=androidstudio,kotlin,c,mysql,latex,bash,lua"/>
 </p>
 
 <p align="center">
