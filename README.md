@@ -17,12 +17,12 @@
 
 <p align="center">
   Currently learning:<br/><br/>  
-  <img href="https://skillicons.dev" src="https://skillicons.dev/icons?i=androidstudio,kotlin,c,mysql,latex,bash,lua"/>
+  <img href="https://skillicons.dev" src="https://skillicons.dev/icons?i=mysql,latex,bash,lua"/>
 </p>
 
 <p align="center">
   Next in line:<br/><br/>
-  <img href="https://skillicons.dev" src="https://skillicons.dev/icons?i=docker,nodejs,aws,spring,raspberrypi,mongodb"/>
+  <img href="https://skillicons.dev" src="https://skillicons.dev/icons?i=androidstudio,kotlin,c,docker,nodejs,aws,spring,raspberrypi,mongodb"/>
 </p>
 <!---
 Zi0LEO/Zi0LEO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
